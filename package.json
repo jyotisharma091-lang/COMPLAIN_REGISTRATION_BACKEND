@@ -1,0 +1,25 @@
+{
+  "name": "complain_registration_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyotisharma091-lang/COMPLAIN_REGISTRATION_BACKEND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jyotisharma091-lang/COMPLAIN_REGISTRATION_BACKEND/issues"
+  },
+  "homepage": "https://github.com/jyotisharma091-lang/COMPLAIN_REGISTRATION_BACKEND#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
